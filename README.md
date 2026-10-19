@@ -147,3 +147,10 @@ If you use this code or the data, please cite the article above and the Zenodo r
 The original research code (one year of accumulated functions) is not part of the current tree.
 It is kept in the git history (commit `de9d212` and earlier); `docs/AUDIT.md` lists what was
 kept, removed and fixed.
+
+## 9. Use of AI assistance
+
+Claude (Anthropic) was used only for the cleaning of the analysis code, the writing of the tests
+and the documentation (commit "Clean analysis code, tests and documentation"), and for nothing
+else. The experiments, the data, the analysis methods, the scientific results and the article
+are the work of the authors.
