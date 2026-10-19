@@ -1,0 +1,13 @@
+# data and outputs
+*.npy
+*.npz
+*.tif
+*.tiff
+results/
+demo_data/
+__pycache__/
+*.pyc
+fft.wisdom
+
+# old research code (kept locally only)
+old/
